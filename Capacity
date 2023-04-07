@@ -1,0 +1,6 @@
+| Resource Name | Task         | Level of Effort (%) | Hours in a Day | Vacation Days | Available Hours |
+|---------------|--------------|---------------------|----------------|---------------|-----------------|
+| John Doe      | Development  | 100                 | 8              | 2             | 184             |
+| Jane Smith    | Testing      | 80                  | 8              | 1             | 148             |
+| Alice Brown   | Documentation| 50                  | 8              | 3             | 86              |
+| Bob Johnson   | Design       | 100                 | 6              | 0             | 138             |
